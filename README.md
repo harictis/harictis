@@ -3,9 +3,9 @@
 fun to work
 - 🌱 I’m currently learning ...
 new tech in security side
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Security analysts and ML coders
 none 
-- 📫 How to reach me ...
+- 📫 How to reach me ...hariharasudhanctis2021@gmail.com
 
 <!---
 harictis/harictis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
